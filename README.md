@@ -32,6 +32,13 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Author
 
+👤 **Ezekiel Utshudi**
+
+- GitHub: [@EzekielUtshudi](https://github.com/EzekielUtshudi)
+- Twitter: [@UtshudiEzekiel](https://twitter.com/UtshudiEzekiel)
+- LinkedIn: [@ezekiel-utshudi](https://www.linkedin.com/in/ezekiel-utshudi-195782162/)
+
+
 👤 **Ben**
 
 - GitHub: [Ben Kiarie](https://github.com/Benmuiruri)
